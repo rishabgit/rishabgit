@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Rishab is a 19 year old aspiring machine learning engineer from India, looking for an internship. Click [here](https://github.com/rishabmallick/rishabmallick/blob/master/Rishab_Mallick_CV.pdf) to see his CV.
+Rishab is a 19 year old aspiring machine learning engineer from India, looking for an internship. Click [here](https://github.com/rishabmallick/rishabmallick/blob/master/Rishab_Mallick_resume.pdf) to see his CV.
 - 🌱 He's currently reading about recommendation system and, ways to use Capsule network on sequential data.
 - 👯 He's always looking to collaborate and learn more. Hit him up if you're interested :arrow_down:
 - 📫 How to reach him: Email at rishabmallick6@gmail.com or text at [LinkedIn](https://www.linkedin.com/in/rishabmallick/) :)
