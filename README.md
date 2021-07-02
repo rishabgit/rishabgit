@@ -1,2 +1,2 @@
-Check out my [website](https://rishab.codes/)!
+Check out my (unmaintained :frowning_face:) [website](https://rishab.codes/)!
 
