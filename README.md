@@ -1,2 +1,2 @@
-![](../master/1625245600701.jpg)
+Determined, Worker, Intense, Good worker, Hard worker, Terrific.
 
