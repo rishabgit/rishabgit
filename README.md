@@ -1,2 +1,1 @@
-Determined, Worker, Intense, Good worker, Hard worker, Terrific.
-
+hi 👋 [my website](https://rishab.codes/) 😄
